@@ -5,13 +5,13 @@ Portmaster — это бесплатный межсетевой экран дл�
 
 Благодаря продуманным настройкам по умолчанию ваша приватность улучшается без каких-либо усилий. А если вы хотите настраивать и контролировать всё до мельчайших деталей — Portmaster тоже поможет.
 
-__[Скачать бесплатно](https://safing.io/download/)__
+[Скачать бесплатно](https://safing.io/download/)
 
-__[О нас](https://safing.io/about/)__
+[О нас](https://safing.io/about/)
 
 ![Пользовательский интерфейс Portmaster](https://safing.io/assets/img/page-specific/landing/portmaster-thumbnail.png?)
 
-_СМИ о нас:_  
+**СМИ о нас:**
 
 [<img src="https://safing.io/assets/img/external/heise_online.svg" height="35">](https://www.heise.de/tests/Datenschutz-Firewall-Portmaster-im-Test-9611687.html)
 &nbsp;&nbsp;&nbsp;
