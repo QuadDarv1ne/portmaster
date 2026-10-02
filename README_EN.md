@@ -3,15 +3,15 @@
 Portmaster is a free and open-source application firewall that does the heavy lifting for you.
 Restore privacy and take back control over all your computer's network activity.
 
-With great defaults your privacy improves without any effort. And if you want to configure and control everything down to the last detail - Portmaster has you covered too. Developed in the EU 🇪🇺, Austria.
+With great defaults your privacy improves without any effort. And if you want to configure and control everything down to the last detail - Portmaster has you covered too.
 
-__[Download for Free](https://safing.io/download/)__
+[Download for Free](https://safing.io/download/)
 
-__[About Us](https://safing.io/about/)__
+[About Us](https://safing.io/about/)
 
 ![Portmaster User Interface](https://safing.io/assets/img/page-specific/landing/portmaster-thumbnail.png?)
 
-_seen on:_  
+**seen on:**
 
 [<img src="https://safing.io/assets/img/external/heise_online.svg" height="35">](https://www.heise.de/tests/Datenschutz-Firewall-Portmaster-im-Test-9611687.html)
 &nbsp;&nbsp;&nbsp;
